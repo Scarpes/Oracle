@@ -31,7 +31,7 @@ GROUP BY department_name
 HAVING d.department_name in ('IT'，'Sales');
 ```
 运行结果：
-![运行结果](https://github.com/lihongfei666/oracle/blob/master/test1/2.PNG)
+![运行结果](https://github.com/Scarpes/Oracle/blob/master/Test1/2.png)
 
 >比较两条查询语句，我认为第二条查询语句更优。两条语句都是查询所有部门以及以下员工的总数与平均工资。但是“Where”是一个约束声明，在查询数据库的结果返回之前对数据库中的查询条件进行约束，在结果返回之前起作用；“Having”是一个过滤声明，所谓过滤是在查询数据库的结果返回之后进行过滤，在结果返回之后起作用。
 
