@@ -19,7 +19,7 @@ and d.department_name in ('IT'，'Sales')
 GROUP BY department_name;
 ```
 运行结果：
-![运行结果](https://github.com/lihongfei666/oracle/blob/master/test1/1.PNG)
+![运行结果](https://github.com/Scarpes/Oracle/blob/master/Test1/1.png)
 
 - 查询2：
 ```SQL
