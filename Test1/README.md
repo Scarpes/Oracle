@@ -42,9 +42,9 @@ SELECT (R.REGION_NAME)AS "地区名称",COUNT(C.REGION_ID)AS "各地区国家数
 FROM HR.REGIONS R, HR.COUNTRIES C
 WHERE R.REGION_ID=C.REGION_ID
 group by R.REGION_NAME, R.REGION_ID
-HAVING R.REGION_ID IN ('1','2','3','4');
+HAVING R.REGION_ID IN ('1','2', '4');
 ```
 运行结果：
-![运行结果](https://github.com/lihongfei666/oracle/blob/master/test1/3.PNG)
+![运行结果](https://github.com/Scarpes/Oracle/blob/master/Test1/3.png)
 
 >该条自定义查询语句是查询4个地区名称以及各地区的国家数目。因为前面得出用第二种查询语句更优的结论，所以采用了“Having”写法。
