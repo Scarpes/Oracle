@@ -22,7 +22,7 @@ GRANT CON_RES_VIEW_ZLH TO NEW_USER_ZLH;
 
 运行结果：
 ![代码](https://github.com/Scarpes/Oracle/blob/master/test2/1-1.png)
-![运行结果]https://github.com/Scarpes/Oracle/blob/master/test2/1-2.png)
+![运行结果](https://github.com/Scarpes/Oracle/blob/master/test2/1-2.png)
 
 
 - 第2步：新用户NEW_USER_ZLH连接到pdborcl，创建表MYTABLE和视图MYVIEW，插入数据，最后将MYVIEW的SELECT对象权限授予HR用户。
