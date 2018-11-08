@@ -16,4 +16,6 @@
 ## 1.创建主表和从表
 ![运行结果](https://github.com/Scarpes/Oracle/blob/master/test3/1.png)
 ![运行结果](https://github.com/Scarpes/Oracle/blob/master/test3/2.png)
-## 1.分配使用权限
+## 2.分配使用权限
+![运行结果](https://github.com/Scarpes/Oracle/blob/master/test3/3.png)
+![运行结果](https://github.com/Scarpes/Oracle/blob/master/test3/4.png)
