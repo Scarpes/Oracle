@@ -57,7 +57,7 @@ END MyPack;
 ```
     
 创建成功截图：
-    ![运行结果](https://github.com/wtsStudy/Oracle/blob/master/test5/包创建成功截图.png )
+    ![运行结果](https://github.com/Scarpes/Oracle/blob/master/test5/1.png)
 
  #2.测试：
     实现语句：
@@ -68,7 +68,7 @@ END MyPack;
  ```
     
 运行结果截图：
-    ![运行结果](https://github.com/wtsStudy/Oracle/blob/master/test5/函数测试截图.png )
+    ![运行结果](https://github.com/Scarpes/Oracle/blob/master/test5/2.png )
     
  ```sql
     --测试过程GET_EMPLOYEES
@@ -82,4 +82,4 @@ END;
  ```
     
 运行结果截图：
-    ![运行结果](https://github.com/wtsStudy/Oracle/blob/master/test5/过程测试截图.png )
+    ![运行结果](https://github.com/Scarpes/Oracle/blob/master/test5/3.png )
